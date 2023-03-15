@@ -14,7 +14,7 @@ export const projects = [
 		des: 'Greenhouse is the leading hiring software for growing companies. Thousands of the most successful companies, like DoorDash, Betterment, Wayfair and DocuSign, use Greenhouse to optimize all aspects of their hiring and onboarding.',
 		demo: '',
 		live: 'https://greenhouseclone.netlify.app/',
-		gitHub: 'https://github.com/Anjali6416/Greenhouse_Project',
+		gitHub: 'https://github.com/Ni3deshwal/GreenHouseClone',
 		technologies: ['JavaScript,',"HTML," ,'CSS,'],
 	},
 	{
