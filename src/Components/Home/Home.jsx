@@ -115,11 +115,11 @@ const Home = ({ scrollRef }) => {
         <About />
       </div>
 
-      <div id="techStacks" className={styles.techStacks}>
+      <div id="skills" className={styles.techStacks}>
         <TechStacks />
       </div>
 
-      <div
+      {/* <div
         id="experience"
         className={styles.experience}
         style={{
@@ -135,7 +135,7 @@ const Home = ({ scrollRef }) => {
         >
           <Experiences />
         </div>
-      </div>
+      </div> */}
 
       {/* project section from here => */}
       <div id="projects" className={styles.projects}>
